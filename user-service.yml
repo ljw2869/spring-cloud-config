@@ -3,4 +3,4 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: sa
+    password: '{cipher}4b537d3836c5fda4f829f31b2ce59436ea3cfe007035830e19fb5b5f56730108'
